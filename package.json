@@ -1,0 +1,10 @@
+{
+    "name": "alltube",
+    "title": "AllTube Download",
+    "id": "alltube@rudloff.pro",
+    "description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
+    "author": "Pierre Rudloff <contact@rudloff.pro>",
+    "license": "MPL 2.0",
+    "version": "0.2",
+    "icon": "data/logo_60.png"
+}
