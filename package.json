@@ -5,6 +5,7 @@
     "description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
     "author": "Pierre Rudloff <contact@rudloff.pro>",
     "license": "MPL 2.0",
-    "version": "0.3",
-    "icon": "data/logo_60.png"
+    "version": "0.3.1",
+    "icon": "data/logo_60.png",
+    "main": "lib/main.js"
 }
