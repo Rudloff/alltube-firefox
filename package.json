@@ -1,20 +1,26 @@
 {
-    "name": "alltube",
-    "title": "AllTube Download",
-    "id": "alltube@rudloff.pro",
-    "description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
-    "author": "Pierre Rudloff <contact@rudloff.pro>",
-    "license": "MPL 2.0",
-    "version": "0.4.0",
-    "icon": "data/logo_60.png",
-    "main": "lib/main.js",
-    "preferences": [
-        {
-            "name": "alltube-url",
-            "title": "AllTube base URL",
-            "description": "URL of the AllTube install you want to use (e.g. http://www.alltubedownload.net)",
-            "type": "string",
-            "value": "https://alltube.herokuapp.com/"
-        }
-    ]
+	"name": "alltube",
+	"title": "AllTube Download",
+	"id": "alltube@rudloff.pro",
+	"description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
+	"author": "Pierre Rudloff <contact@rudloff.pro>",
+	"license": "MPL 2.0",
+	"version": "0.4.0",
+	"icon": "data/logo_60.png",
+	"main": "lib/main.js",
+	"preferences": [{
+		"name": "alltube-url",
+		"title": "AllTube base URL",
+		"description": "URL of the AllTube install you want to use (e.g. http://www.alltubedownload.net)",
+		"type": "string",
+		"value": "https://alltube.herokuapp.com/"
+	}],
+	"devDependencies": {
+		"grunt": "~0.4.5",
+		"grunt-jslint": "~1.1.14"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rudloff/alltube-firefox.git"
+	}
 }
