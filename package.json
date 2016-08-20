@@ -13,7 +13,7 @@
 		"title": "AllTube base URL",
 		"description": "URL of the AllTube install you want to use (e.g. http://www.alltubedownload.net)",
 		"type": "string",
-		"value": "https://alltube.herokuapp.com/"
+		"value": "https://www.alltubedownload.net/"
 	}],
 	"devDependencies": {
 		"grunt": "~0.4.5",
