@@ -6,7 +6,6 @@
 	"author": "Pierre Rudloff <contact@rudloff.pro>",
 	"license": "MPL-2.0",
 	"version": "0.4.0",
-	"icon": "data/logo_60.png",
 	"main": "lib/main.js",
 	"preferences": [{
 		"name": "alltube-url",
