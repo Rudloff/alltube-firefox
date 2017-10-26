@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "name": "Alltube Download",
+  "description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
+  "version": "0.4.1",
+  "author": "Pierre Rudloff",
+  "homepage_url": "https://alltubedownload.net/",
+  "options_ui": {
+    "page": "data/options.html"
+  },
+  "icons": {
+    "32": "data/favicon.png",
+    "60": "data/logo_60.png"
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
+      "32": "data/favicon.png",
+      "60": "data/logo_60.png"
+    },
+    "default_title": "AllTube"
+  },
+  "background": {
+    "scripts": [
+      "lib/main.js"
+    ]
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus",
+    "storage"
+  ],
+  "commands": {
+    "download": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+D"
+      }
+    }
+  }
+}
