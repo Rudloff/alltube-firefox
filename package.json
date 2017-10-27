@@ -1,7 +1,7 @@
 {
   "name": "alltube-firefox",
   "description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "author": "Pierre Rudloff <contact@rudloff.pro>",
   "bugs": "https://github.com/Rudloff/alltube-firefox/issues",
   "devDependencies": {
