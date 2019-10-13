@@ -8,7 +8,7 @@
     "grunt": "~1.0.0",
     "grunt-jslint": "~1.1.14",
     "grunt-jsonlint": "~1.1.0",
-    "web-ext": "~2.2.2"
+    "web-ext": "^3.2.0"
   },
   "homepage": "https://www.alltubedownload.net/",
   "id": "alltube@rudloff.pro",
