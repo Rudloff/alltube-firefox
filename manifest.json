@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Alltube Download",
   "description": "Easily download videos from Youtube, Dailymotion, Vimeo and other websites.",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "author": "Pierre Rudloff",
   "homepage_url": "https://alltubedownload.net/",
   "options_ui": {
